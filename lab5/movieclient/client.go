@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"gitlab.com/arunravindran/cloudnativecourse/lab5-grpc/movieapi"
+	"gitlab.com/VahidBabaey/CloudNativeCourse/lab5/movieapi"
 	"google.golang.org/grpc"
 )
 
