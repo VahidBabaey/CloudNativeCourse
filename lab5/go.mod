@@ -1,4 +1,4 @@
-module gitlab.com/VahidBabaey/CloudNativeCourse
+module github.com/VahidBabaey/CloudNativeCourse
 
 go 1.22.0
 
