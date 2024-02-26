@@ -1,7 +1,7 @@
 // Proto file for movie info service. Note this is gRPC proto syntax (not Go)
 syntax = "proto3";
 
-option go_package = "gitlab.com/VahidBabaey/CloudNativeCourse/lab5/movieapi";
+option go_package = "github.com/VahidBabaey/CloudNativeCourse/lab5/movieapi";
 
 package movieapi;
 
